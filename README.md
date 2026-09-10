@@ -9,7 +9,13 @@ I enjoy turning **Figma/XD designs into clean, maintainable code** and building 
 I also work extensively with **WordPress, Elementor, and ACF** to create flexible and easy-to-manage websites.
 
 ---
+<div align="center">
 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXc3NWprNnIybzZnb3d3b3d0MDRsYmp6OThvZmwya3MxeWU4eTY3aTFkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LRgPbjsbO7KgSubj4J/giphy.gif" width="80%" />
+
+</div>
+
+<br>
 ## 🚀 About Me
 
 - 💻 Frontend UI Developer & Web Designer
