@@ -1,3 +1,8 @@
+<div align="center">
+
+<img src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXc3NWprNnIybzZnb3d3b3d0MDRsYmp6OThvZmwya3MxeWU4eTY3aTFkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LRgPbjsbO7KgSubj4J/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXY2NzJ6ZmhtenE3dTc3MnBoMnY5bmxoNnA4NGxlamNxNXEwbXJqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QHE5gWI0QjqF2/giphy.gif)" width="200" />
+
+</div>
 # Hi there, I'm Suraj Banerjee 👋
 
 ### Frontend UI Developer • Web Designer • Creative Developer
@@ -11,7 +16,7 @@ I also work extensively with **WordPress, Elementor, and ACF** to create flexibl
 ---
 <div align="center">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXc3NWprNnIybzZnb3d3b3d0MDRsYmp6OThvZmwya3MxeWU4eTY3aTFkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LRgPbjsbO7KgSubj4J/giphy.gif" width="80%" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXc3NWprNnIybzZnb3d3b3d0MDRsYmp6OThvZmwya3MxeWU4eTY3aTFkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LRgPbjsbO7KgSubj4J/giphy.gif" width="200" />
 
 </div>
 
