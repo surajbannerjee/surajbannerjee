@@ -91,9 +91,13 @@ Focusing on clean layouts, usability, visual hierarchy and consistent design sys
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=surajbanerjee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+<a href="https://github.com/surajbanerjee">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=surajbanerjee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajbanerjee&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+<a href="https://github.com/surajbanerjee">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajbanerjee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</a>
 
 </div>
 
